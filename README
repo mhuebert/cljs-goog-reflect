@@ -1,0 +1,8 @@
+```
+clj --main cljs.main --compile reflect.other --repl
+
+=> WARNING: No such namespace: goog.reflect, could not locate goog/reflect.cljs, goog/reflect.cljc, or JavaScript source providing "goog.reflect" at line 4 /Volumes/Disky/projects/cljs-test/src/reflect/other.cljs
+WARNING: Use of undeclared Var goog.reflect/objectProperty at line 4 /Volumes/Disky/projects/cljs-test/src/reflect/other.cljs
+
+```
+
